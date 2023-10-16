@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[347],{99285:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/services/supply-chain-management",function(){return u(56958)}])}},function(n){n.O(0,[9774,2013,4617,6556,5445,571,101,1005,5534,6958,2888,179],(function(){return _=99285,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
